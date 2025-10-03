@@ -3,7 +3,7 @@ Practical exercises regarding Scrum Framework
 
 [Miro Dashboard] Project Challenge - Link: https://miro.com/app/board/uXjVJAel5YE=/?share_link_id=932159724161
 
-## Personal Article regarding the role of a QA on Scrum Team
+## Personal Article regarding the role of a QA on Scrum Team:
 
 # Bridging the Gap: How the Scrum Guide Illuminates the Essential Role of QA
 
